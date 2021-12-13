@@ -55,4 +55,4 @@ Decrypts a Fernet token. If successfully decrypted you will receive the original
 
 It's a Fake graphical mode ( the countdown is unlimitted) it's just more cool !
 
-![alt text](https://github.com/leo9722/Ransomware_python/edit/main/img.PNG)
+![alt text](https://github.com/leo9722/Ransomware_python/blob/main/img.PNG)
