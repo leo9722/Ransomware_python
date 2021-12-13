@@ -49,3 +49,8 @@ Allows recursive decryption of the targeted tree structure
  `decrypt(data)`
  
 Decrypts a Fernet token. If successfully decrypted you will receive the original plaintext as the result, otherwise an exception will be raised. It is safe to use this data immediately as Fernet verifies that the data has not been tampered with prior to returning it.
+
+
+# Graphical mode 
+
+It's a Fake graphical mode ( the countdown is unlimitted) it's just more cool !
