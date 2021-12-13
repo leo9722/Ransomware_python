@@ -54,3 +54,5 @@ Decrypts a Fernet token. If successfully decrypted you will receive the original
 # Graphical mode 
 
 It's a Fake graphical mode ( the countdown is unlimitted) it's just more cool !
+
+![alt text]: https://github.com/leo9722/Ransomware_python/edit/main/img.PNG
